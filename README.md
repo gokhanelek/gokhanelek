@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PayALL
 - 🌱 I’m currently learning TypeScript, Angular framework, React.js and Vue.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on Web projects
+- 🤔 I’m looking for help with improve myself
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/g%C3%B6khan-elek-23b8b3103/">
  Gokhan 😄 
 </a>
