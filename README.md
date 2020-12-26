@@ -11,7 +11,8 @@
 <a href="https://www.reddit.com/user/TC_Gokhan">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-
+<br>
+<br>
 Hi, I am Gokhan, a frontend developer. I live in Istanbul.
 
 
