@@ -14,6 +14,8 @@
 <br>
 <br>
 Hi, I am Gokhan, a frontend developer. I live in Istanbul.
+<br>
+<br>
 
 
 Here are some ideas to get you started:
