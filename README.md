@@ -21,10 +21,10 @@ Hi, I am Gokhan, a frontend developer. I live in Istanbul.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PayALL
+- 🔭 I’m currently working for PayALL
 - 🌱 I’m currently learning TypeScript, Angular framework, React.js and Vue.js
 - 👯 I’m looking to collaborate on Web projects
-- 🤔 I’m looking for help with improve myself
+- 🤔 I’m looking for help to improve myself
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/g%C3%B6khan-elek-23b8b3103/">
  Gokhan 😄 
 </a>
